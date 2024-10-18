@@ -22,32 +22,32 @@ sites:
   - name: DOM DJARUM - 67.219.103.227
     url: https://67.219.103.227
   - name: BETA2 - 45.77.251.235
-    url: http://45.77.251.235:303/
+    url: http://45.77.251.235:303
   - name: RBS2 - 66.42.60.36
     url: https://66.42.60.36
   - name: PANEN2 - 45.77.170.187
     url: https://45.77.170.187
- - name: WANA1 - 45.32.123.103
+  - name: WANA1 - 45.32.123.103
     url: https://45.32.123.103
- - name: RTP - 45.76.179.228
+  - name: RTP - 45.76.179.228
     url: https://45.76.179.228
- - name: PANEN1 - 67.219.101.147
+  - name: PANEN1 - 67.219.101.147
     url: https://67.219.101.147
- - name: BARONG - 67.219.102.118
+  - name: BARONG - 67.219.102.118
     url: https://67.219.102.118
- - name: NUSA2 - 66.42.54.216
+  - name: NUSA2 - 66.42.54.216
     url: https://66.42.54.216
- - name: BETA3 - 149.28.147.18
+  - name: BETA3 - 149.28.147.18
     url: https://149.28.147.18
- - name: ASGOL - 149.28.152.196
+  - name: ASGOL - 149.28.152.196
     url: https://149.28.152.196
- - name: SERVER GCR - 104.156.232.87
+  - name: SERVER GCR - 104.156.232.87
     url: https://104.156.232.87
- - name: RBS - 45.76.156.44
+  - name: RBS - 45.76.156.44
     url: https://45.76.156.44
- - name: SATU - 45.76.146.71
+  - name: SATU - 45.76.146.71
     url: https://45.76.146.71
- - name: IDCLOUD - 103.179.56.126
+  - name: IDCLOUD - 103.179.56.126
     url: https://103.179.56.126
 
 status-website:
